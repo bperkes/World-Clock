@@ -11,9 +11,9 @@ var timerID = setInterval(function() {
   /* set dates for citiies with respect to UTC time */
   displayTime(hour, min, sec, day, "AM", +12, "time-1", "day-1");
   displayTime(hour, min, sec, day, "AM", -4, "time-2", "day-2");
-  displayTime(hour, min, sec, day, "AM", -6, "time-3", "day-3");
-  displayTime(hour, min, sec, day, "AM", +8, "time-4", "day-4");
-  displayTime(hour, min, sec, day, "AM", +2, "time-5", "day-5");
+  displayTime(hour, min, sec, day, "AM", +8, "time-3", "day-3");
+  displayTime(hour, min, sec, day, "AM", +2, "time-4", "day-4");
+  displayTime(hour, min, sec, day, "AM", -7, "time-5", "day-5");
   displayTime(hour, min, sec, day, "AM", -3, "time-6", "day-6");
   displayTime(hour, min, sec, day, "AM", +1, "time-7", "day-7");
   displayTime(hour, min, sec, day, "AM", +8, "time-8", "day-8");
